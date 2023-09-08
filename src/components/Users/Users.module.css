@@ -1,0 +1,28 @@
+.main {
+    padding: 3.125rem 4.375rem;
+}
+.pagination {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: .375rem;
+    font-size: 1.125rem;
+    color: #3c3c3c;
+    font-weight: bold;
+    margin-bottom: 1.25rem;
+}
+.selectedPage {
+    padding: 0 0.5rem 0.1rem;
+    color: #FFFFFF;
+    background-color: #3f413f;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.unselectedPage {
+    color: #3f413f;
+    cursor: pointer;
+    padding: 0 0.5rem 0.1rem;
+}

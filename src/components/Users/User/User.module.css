@@ -1,0 +1,46 @@
+.userLink {
+    width: 100%;
+}
+.item {
+    display: flex;
+    gap: 2rem;
+    box-shadow: 1px 1px 4px #aaa;
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 1.75rem;
+    margin-bottom: 1rem;
+}
+.item:hover {
+    background: #f4f8fe;
+}
+.left {
+    width: 35%;
+}
+.middle{
+    align-self: center;
+    width: 50%;
+}
+.right {
+    width: 15%;
+    align-self: flex-end;
+}
+.imgFolder {
+    max-width: 9.375rem;
+    text-align: center;
+    margin-bottom: .625rem;
+}
+.intro {
+    font-size: .875rem;
+    color: #767676;
+}
+.follow {
+    font-size: .75rem;
+    padding: .25rem .75rem .375rem;
+    color: #ffffff;
+    background: #3f413f;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}

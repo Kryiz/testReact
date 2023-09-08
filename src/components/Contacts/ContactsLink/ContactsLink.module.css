@@ -1,0 +1,11 @@
+.link {
+    display: block !important;
+    font-style: italic;
+    text-decoration: none;
+    text-underline-offset: 5px;
+    color: #3f413f;
+    margin-bottom: 10px;
+}
+.link:hover {
+    text-decoration: underline;
+}

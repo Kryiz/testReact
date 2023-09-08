@@ -1,0 +1,42 @@
+.test {
+    padding: 3.125rem 0 4.375rem;
+}
+.folder {
+    display: flex;
+    gap: .75rem;
+    margin-bottom: 1.875rem;
+}
+.input {
+    flex: 1;
+    padding: 10px 8px;
+    border: 1px solid #3f413f;
+    border-radius: 8px;
+}
+.btn {
+    color: #fff;
+    background: #3f413f;
+    padding: 6px 12px;
+    border-radius: 8px;
+}
+.field {
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 133%;
+    margin-bottom: 1rem;
+}
+.result {
+    font-size: 1.125rem;
+    line-height: 133%;
+}
+.small{
+    font-size: .75rem;
+    color: #6b6b6b;
+}
+.gray {
+    color: #6b6b6b;
+}
+.errorText {
+    text-align: center;
+    font-size: 14px;
+    color: red;
+}

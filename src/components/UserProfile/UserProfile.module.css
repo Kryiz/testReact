@@ -1,0 +1,24 @@
+.up {
+    padding: 1.875rem 0 3.125rem;
+}
+.up__item {
+    text-align: center;
+    padding: 1.5rem;
+    background: #ffffff;
+}
+.up__name {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.up__imgFolder {
+    margin-bottom: 1rem;
+}
+.up__img {
+    border: 3px outset #61dafb;
+    border-radius: 8px;
+    margin: auto;
+}
+.up__info {
+    margin-bottom: 1rem;
+}
